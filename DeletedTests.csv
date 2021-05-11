@@ -56,8 +56,8 @@ https://github.com/c2mon/c2mon,d80687b119c713dd177a58cf53a997d8cc5ca264,c2mon-se
 https://github.com/confluentinc/kafka-connect-elasticsearch,4d771248e26802e1986c6b7ed930106be5f76b1f,.,io.confluent.connect.elasticsearch.ElasticsearchWriterTest.testMap,ID,,,,,,,,
 https://github.com/confluentinc/kafka-connect-elasticsearch,4d771248e26802e1986c6b7ed930106be5f76b1f,.,io.confluent.connect.elasticsearch.ElasticsearchWriterTest.testStringKeyedMap,ID,,,,,,,,
 https://github.com/ctco/cukes,let,cukes-core,"lv.ctco.cukes.core.RunCukesTest.When
-https://github.com/ctco/cukes,response,cukes-oauth-sample,lv.ctco.cukes.oauth.sample.RunCukesOAuthTest.And",response,contains,Read,success""",contains,Read,success""",b483e1a8f261b80a66291a42fc455256b0b5059c,
-https://github.com/ctco/cukes,content-type,cukes-rabbitmq-sample,"lv.ctco.cukes.rabbitmq.RunCukesRabbmitMQTest.And,content-type,is,""application/json""",is,application/json""",b483e1a8f261b80a66291a42fc455256b0b5059c,NOD,,,,,
+https://github.com/ctco/cukes,response,cukes-oauth-sample,lv.ctco.cukes.oauth.sample.RunCukesOAuthTest.And",response,contains,Read,"success""""""",contains,Read,"success""""""",b483e1a8f261b80a66291a42fc455256b0b5059c,
+https://github.com/ctco/cukes,content-type,cukes-rabbitmq-sample,"lv.ctco.cukes.rabbitmq.RunCukesRabbmitMQTest.And,content-type,is,""application/json""",is,"application/json""""""",b483e1a8f261b80a66291a42fc455256b0b5059c,NOD,,,,,
 https://github.com/ctco/cukes,mock,cukes-samples/cukes-rest-sample,"lv.ctco.cukes.rest.run.RunCustomCukesTest.*,mock,response,will,have,header,""expected"",with,value,""hello""",response,will,have,header,,,,,
 https://github.com/ctco/cukes,wait,cukes-samples/cukes-plugin-sample,lv.ctco.cukes.plugins.RunCukesTest.Given,wait,for,1,second,for,1,second,b483e1a8f261b80a66291a42fc455256b0b5059c,
 https://github.com/dnsjava/dnsjava,d97b6a0685d59143372bb392ab591dd8dd840b61,.,org.xbill.DNS.APLRecordTest.test_malformed_address,UD,,,,,,,,
